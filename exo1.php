@@ -19,7 +19,7 @@
     // Affichage du produit des éléments du tableau
     echo "Le produit des éléments de votre tableau donne : $produit\n";
 
-    //  intval() permet de convertir une valeur en entier && readline() permet;
+    //  intval() permet de convertir une valeur en entier && readline() permet d'interagir avec l'utilisateur en lui demandant de saisir des données à partir du clavier;
     /* Ici j'ai dabord déclaré les variables dont j'aurai besoin à savoir (tableau, taille_tableau, produit),
         j'ai demandé à l'utilisateur d'entrer la taille du tableau soit le nombre de colonne qu'il contient et
         j'ai initialisé $produit = à 1.
